@@ -1,3 +1,6 @@
+#This project follows the Coding With Flutter youtube channel tutorial. Right below are the original README.md from original project:
+#Este projeto segue as instruções do canal Coding with Flutter. Segue abaixo o README.md do projeto original:
+
 # Advanced Provider Architecture Demo: Image Picker + Firebase Storage Upload
 
 This project shows how to capture, upload and show an avatar image, while supporting multiple user accounts with Firebase.
